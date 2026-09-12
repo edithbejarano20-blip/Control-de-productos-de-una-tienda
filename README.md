@@ -111,8 +111,4 @@ Otra limitación es que al eliminar un producto los elementos posteriores pueden
 Como mejora se podría permitir almacenar una cantidad mayor de productos y agregar información como precio, cantidad disponible y categoría.
 
 También se podría desarrollar una interfaz gráfica para facilitar el uso de la aplicación.
-10. Video
-
-**Enlace del video:**
-https://fumcc.sharepoint.com/:v:/s/TAREADEESTRUCTURA/IQB5mn6xYpreRrEHLAkWj-02ARFfa7OMu_cTaV2cLzqWMxI?e=cnapOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
