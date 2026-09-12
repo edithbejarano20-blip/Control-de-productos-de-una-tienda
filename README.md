@@ -116,7 +116,3 @@ También se podría desarrollar una interfaz gráfica para facilitar el uso de l
 **Enlace del video:**
 https://fumcc.sharepoint.com/:v:/s/TAREADEESTRUCTURA/IQB5mn6xYpreRrEHLAkWj-02ARFfa7OMu_cTaV2cLzqWMxI?e=cnapOH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## Autor
-
-Estudiante de Ingeniería de Software
-
